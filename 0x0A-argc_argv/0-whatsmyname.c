@@ -1,7 +1,6 @@
-#include <stdio.h>
-
-int main(int argc, char *argv[])
+#include<stdio.h>  
+void main()  
 {
-    printf("%s\n", argv[0]);
-    return 0;
+  printf("0-whatsmyname.c");  
+  getch();  
 }
